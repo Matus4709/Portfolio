@@ -1,4 +1,4 @@
-import { CloudArrowUpIcon, LockClosedIcon, ServerIcon, PaintBrushIcon, LinkIcon, CircleStackIcon, UserCircleIcon} from '@heroicons/react/20/solid';
+import { CloudArrowUpIcon, PaintBrushIcon, LinkIcon, CircleStackIcon, UserCircleIcon} from '@heroicons/react/20/solid';
 import WeatherAppImg from '../components/assets/img/weatherapp.png';
 import ToDoAppImg from '../components/assets/img/todoapp.png';
 
